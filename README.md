@@ -54,8 +54,8 @@ These segments provide valuable insights for targeted marketing and resource all
 This project demonstrates the effectiveness of K-Means clustering in customer segmentation, offering businesses a data-driven approach to better understand their customers and tailor their strategies accordingly. The insights gained can lead to improved customer satisfaction, higher retention rates, and increased revenue.
 
 ## Contributors
-- **[Tayyab Tanveer]([https://www.linkedin.com/in/tayyab-tanveer](https://www.linkedin.com/in/tayyab-tanveer-b000282b3)** - Lead Developer
-- **[Fatima]([https://www.linkedin.com/in/fatima](https://www.linkedin.com/in/fatima-shafiq-3945601b1)** - Contributor
+- **[Tayyab Tanveer](https://www.linkedin.com/in/tayyab-tanveer-b000282b3)** - Lead Developer
+- **[Fatima](https://www.linkedin.com/in/fatima-shafiq-3945601b1)** - Contributor
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
